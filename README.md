@@ -7,5 +7,5 @@ Currently learning:
 Pushed by favour.
 Code for fun.
 
-![image](haagentus.jpg)
+<img src="haagentus.jpg" width="25%">
 Isn't she adorable?
