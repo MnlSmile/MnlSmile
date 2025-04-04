@@ -7,5 +7,10 @@ Currently learning:
 Pushed by favour.
 Code for fun.
 
-<img src="haagentus.jpg" width="25%">
+<style>
+#haagentus {
+    border-radius: 3%;
+}
+</style>
+<img id="haagentus" src="haagentus.jpg" width="25%">
 Isn't she adorable?
