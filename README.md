@@ -1,11 +1,11 @@
 Hi I'm MnlSmile
 
-Currently learning:
+Currently learning languages:
  - Python
  - C/C++
- - HTML/CSS/JavaScript
- 
-Pushed by favour.
+ - C#
+ - HTML/CSS/JavaScript/TypeScript
+
 Code for fun.
 
 <img src="haagentus.jpg" width="25%">
